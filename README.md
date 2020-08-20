@@ -15,5 +15,5 @@ The API was developed using Flask. It loads 3 models that I trained [here](https
   
     `curl -X POST -F file=@<image_path> 'http://0.0.0.0:5000/predict'`
 - To test the API using a user interface
-  - Open http://0.0.0.0:5000/predict in a web browser
+  - Open http://0.0.0.0:5000 in a web browser
   - Upload an image using the webpage and press the predict button
