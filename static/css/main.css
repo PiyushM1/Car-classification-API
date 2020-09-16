@@ -28,17 +28,17 @@ input[type="file"] {
 
 .upload-label{
     display: inline-block;
-    padding: 12px 30px;
-    background: #39D2B4;
-    color: #fff;
+    padding: 10px 20px;
+    background: #f3f3f3;
+    color: #000;
     font-size: 1em;
     transition: all .4s;
     cursor: pointer;
 }
 
 .upload-label:hover{
-    background: #34495E;
-    color: #39D2B4;
+    background: #b0b0b0;
+    color: #fff;
 }
 
 .loader {
